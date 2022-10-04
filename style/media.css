@@ -1,0 +1,11 @@
+@media(max-width:1251px){
+    .mein__half {
+        padding-top: 61px;
+        width: 100%;
+    }
+}
+@media(max-width:1139px){
+    .instagram{
+        flex-wrap: wrap;
+    }
+}
